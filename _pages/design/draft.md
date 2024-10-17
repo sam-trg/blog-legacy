@@ -6,4 +6,4 @@ category: Notes
 layout: post
 ---
 
-This is an draft page.
+This is a draft page.
