@@ -6,4 +6,7 @@ category: Notes
 layout: post
 ---
 
-This is an about page.
+> ##### WARNING
+>
+> This page is a work in progress
+{: .block-warning }
