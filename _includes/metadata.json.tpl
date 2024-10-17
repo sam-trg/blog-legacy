@@ -40,7 +40,7 @@
             },
         },
         "theme": "default",
-        "author": "Tao He",
+        "author": "Sam",
         "pdf": {
             "pageNumbers": true,
             "fontSize": 12,
