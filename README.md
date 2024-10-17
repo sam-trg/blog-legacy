@@ -5,8 +5,6 @@ permalink: /
 cover: /assets/dinosaur.gif
 ---
 
-Welcome to Sam's notebook on the Internet!
-
 ## Why this Notebook
 
 Hey, I'm Sam and I love to think. Writing gives me greater clarity w.r.t my own thoughts and
