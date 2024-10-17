@@ -2,6 +2,7 @@
 layout: home
 title: Sam's Notebook
 permalink: /
+cover: /assets/dinosaur.gif
 ---
 
 Welcome to Sam's notebook on the Internet!
